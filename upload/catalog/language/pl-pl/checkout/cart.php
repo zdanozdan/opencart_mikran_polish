@@ -34,6 +34,12 @@ $_['column_quantity']       = 'Ilość';
 $_['column_price']          = 'Cena za sztukę';
 $_['column_total']          = 'Razem';
 
+//Mikran
+$_['column_tax_name']          = 'Podatek';
+$_['column_tax_rate']          = 'Stawka';
+$_['column_total_with_tax']    = 'Brutto';
+$_['column_mikran_id']         = 'Kod Mikran'
+
 // Error
 $_['error_stock']            = 'Produkty oznaczone *** nie są dostępne w żądanej ilości lub nie ma ich w magazynie!';
 $_['error_minimum']          = 'Minimalną kwotą dla %s jest %s!';
