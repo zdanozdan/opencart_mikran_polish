@@ -8,6 +8,7 @@ $_['text_list']              = 'Lista kategorii';
 $_['text_add']               = 'Dodaj kategorię';
 $_['text_edit']              = 'Edytuj kategorię';
 $_['text_default']           = 'Domyślnie';
+$_['text_translation']       = 'Automatyczne tłumaczenie zostało wykonane dla włączonych języków.';
 
 // Column
 $_['column_name']            = 'Nazwa kategorii';
