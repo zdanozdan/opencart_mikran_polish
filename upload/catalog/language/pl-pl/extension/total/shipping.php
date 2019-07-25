@@ -4,7 +4,7 @@ $_['heading_title']        = 'Oszacowanie dostawa &amp; podatki';
 
 // Text
 $_['text_success']         = 'Sukces: Zastosowałeś swój koszt wysyłki!';
-$_['text_shipping']        = 'Wprowadź swój cel aby otrzymać koszt wysyłki.';
+$_['text_shipping']        = 'Wybierz kraj aby otrzymać koszt wysyłki.';
 $_['text_shipping_method'] = 'Proszę wybrać preferowany sposób dostawy do wykorzystania w tym zamówieniu.';
 
 // Entry
