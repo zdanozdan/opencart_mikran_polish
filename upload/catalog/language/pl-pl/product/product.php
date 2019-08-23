@@ -30,6 +30,7 @@ $_['text_week']                               = 'tydzień';
 $_['text_semi_month']                         = 'pół miesiąca';
 $_['text_month']                              = 'miesiąc';
 $_['text_year']                               = 'rok';
+$_['text_date_modified']                      = 'Ostatnia aktualizacja';
 
 // Entry
 $_['entry_qty']                               = 'Ilość';
